@@ -1,36 +1,51 @@
-# Selenium Tag Name and Class Name Example
+# Selenium Automation Testing 🚀
 
-## Description
+## Overview
 
-This project demonstrates the use of Selenium WebDriver locators:
-- Class Name
-- Tag Name
+This repository contains my hands-on Selenium WebDriver automation practice using Java.
 
-The program is developed using Java and Selenium WebDriver.
+The purpose of this repository is to build strong practical knowledge of web automation by implementing different Selenium concepts, locators, browser interactions, validations, and real-world automation scenarios.
 
-## Tools Used
+## Tech Stack
 
-- Java
-- Selenium WebDriver
-- Eclipse IDE
-- Chrome Browser
+* Java
+* Selenium WebDriver
+* TestNG
+* Maven
+* ChromeDriver
+* Git & GitHub
 
-## What This Program Does
+## Concepts Covered
 
-- Opens a web application
-- Finds search box using Class Name
-- Finds links using Tag Name
-- Finds images using Tag Name
-- Finds buttons using Tag Name
-- Validates web elements
+✅ Browser automation
+✅ WebDriver commands
+✅ Locators (ID, Name, ClassName, XPath, CSS Selector, TagName)
+✅ WebElement handling
+✅ Click, Type, Get Text operations
+✅ Dropdown handling
+✅ Alerts handling
+✅ Frames handling
+✅ Window handling
+✅ Waits and synchronization
+✅ Mouse and keyboard actions
+✅ Multiple element handling
+✅ Screenshot capture
+✅ Test execution and reporting
 
-## Locators Used
+## Automation Approach
 
-### Class Name
+I focus on writing clean, maintainable automation scripts by following industry practices such as:
 
-Used to find elements using the class attribute.
+* Reusable methods
+* Proper locator strategies
+* Stable automation practices
+* Readable code structure
+* Continuous improvement
 
-Example:
+### Purpose
 
+This repository contains practical automation scripts developed to understand and implement real-time web application testing scenarios using Selenium WebDriver.
 
-By.className("search-box");
+The objective is to automate repetitive test activities, validate application functionality, improve test execution efficiency, and build reliable automation solutions following industry-standard practices.
+
+**Automation is not just about executing test cases; it is about building reliable solutions that improve software quality.**
