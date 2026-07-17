@@ -1,4 +1,9 @@
-# Selenium Automation Testing 🚀
+
+<p align="center">
+  <img src="images/selenium-logo.png" width="200" alt="Selenium Logo">
+</p>
+
+<h1 align="center">Selenium Automation Testing 🚀</h1>
 
 ## Overview
 
