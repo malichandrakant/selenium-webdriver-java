@@ -1,36 +1,56 @@
-# Selenium Tag Name and Class Name Example
 
-## Description
+<p align="center">
+  <img src="image/Selenium_Logo.png" width="200" alt="Selenium Logo">
+</p>
 
-This project demonstrates the use of Selenium WebDriver locators:
-- Class Name
-- Tag Name
+<h1 align="center">Selenium Automation Testing 🚀</h1>
 
-The program is developed using Java and Selenium WebDriver.
+## Overview
 
-## Tools Used
+This repository contains my hands-on Selenium WebDriver automation practice using Java.
 
-- Java
-- Selenium WebDriver
-- Eclipse IDE
-- Chrome Browser
+The purpose of this repository is to build strong practical knowledge of web automation by implementing different Selenium concepts, locators, browser interactions, validations, and real-world automation scenarios.
 
-## What This Program Does
+## Tech Stack
 
-- Opens a web application
-- Finds search box using Class Name
-- Finds links using Tag Name
-- Finds images using Tag Name
-- Finds buttons using Tag Name
-- Validates web elements
+* Java
+* Selenium WebDriver
+* TestNG
+* Maven
+* ChromeDriver
+* Git & GitHub
 
-## Locators Used
+## Concepts Covered
 
-### Class Name
+✅ Browser automation
+✅ WebDriver commands
+✅ Locators (ID, Name, ClassName, XPath, CSS Selector, TagName)
+✅ WebElement handling
+✅ Click, Type, Get Text operations
+✅ Dropdown handling
+✅ Alerts handling
+✅ Frames handling
+✅ Window handling
+✅ Waits and synchronization
+✅ Mouse and keyboard actions
+✅ Multiple element handling
+✅ Screenshot capture
+✅ Test execution and reporting
 
-Used to find elements using the class attribute.
+## Automation Approach
 
-Example:
+I focus on writing clean, maintainable automation scripts by following industry practices such as:
 
+* Reusable methods
+* Proper locator strategies
+* Stable automation practices
+* Readable code structure
+* Continuous improvement
 
-By.className("search-box");
+### Purpose
+
+This repository contains practical automation scripts developed to understand and implement real-time web application testing scenarios using Selenium WebDriver.
+
+The objective is to automate repetitive test activities, validate application functionality, improve test execution efficiency, and build reliable automation solutions following industry-standard practices.
+
+**Automation is not just about executing test cases; it is about building reliable solutions that improve software quality.**
